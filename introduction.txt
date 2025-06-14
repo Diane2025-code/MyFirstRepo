@@ -1,0 +1,4 @@
+Brief Introduction About Myself
+Hello! My name is Diane Iradukunda. I am currently learning about Git, GitHub, and Linux. 
+I enjoy working on collaborative tech projects and aim to enhance my skills in version control systems.
+I’m passionate about open-source, love problem-solving, and look forward to contributing to real-world repositories!
