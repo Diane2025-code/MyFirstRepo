@@ -1,0 +1,9 @@
+What I have learned from this course
+How to create and manage Git repositories
+How to clone repositories to your local machine
+How to track and commit changes using Git
+How to create and switch branches
+How to push and pull changes between local and remote repositories
+How to collaborate using pull requests
+How to resolve merge conflicts
+How to write clear commit messages
